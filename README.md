@@ -48,15 +48,21 @@ https://mp.weixin.qq.com/s/4j-tgTSVKTziy8CjIW8Scw
 
 ![Image text](https://pic3.zhimg.com/80/v2-a1dc313bb2e26be1d46894d7cf4cf956_720w.png)
 
-邮箱通知需要设置发送人邮箱(必须是网易云163邮箱)、发送人邮箱授权码、接收人邮箱。这些需要到网易云163邮箱后台获取。
+### 3.1、邮箱通知
+
+需要设置发送人邮箱(必须是网易云163邮箱)、发送人邮箱授权码、接收人邮箱。这些需要到网易云163邮箱后台获取。
 
 ![Image text](https://pic2.zhimg.com/80/v2-a2c3d9fd9b9625da8736bc7da7d17911_720w.png)
 
-公众号通知需要设置公众号appId、公众号secret、公众号模板消息id、接收人公众号openId。这些需要到公众号后台获取。
+### 3.2、公众号通知
+
+需要设置公众号appId、公众号secret、公众号模板消息id、接收人公众号openId。这些需要到公众号后台获取。
 
 ![Image text](https://pic4.zhimg.com/80/v2-74cd02f794da530cfbf5e1d8279111c3_720w.png)
 
-短信通知需要设置腾讯云短信secretId、腾讯云短信secretKey、腾讯云短信模板id、腾讯云短信appId、腾讯云短信签名。这些需要到腾讯云后台获取。
+### 3.3、短信通知
+
+需要设置腾讯云短信secretId、腾讯云短信secretKey、腾讯云短信模板id、腾讯云短信appId、腾讯云短信签名。这些需要到腾讯云后台获取。
 
 ![Image text](https://picx.zhimg.com/80/v2-c6c121d02cff423a6ec8c6230510c845_720w.png)
 
@@ -66,13 +72,13 @@ https://mp.weixin.qq.com/s/4j-tgTSVKTziy8CjIW8Scw
 
 ![Image text](https://picx.zhimg.com/80/v2-a02bb99ad47afd4f0e67312d4103aa21_720w.png)
 
-### 投诉单详情
+### 4.1、投诉单详情
 
 可以查看投诉单内容详情和投诉进度，以便完成投诉单详情的核实与处理。
 
 ![Image text](https://pic1.zhimg.com/80/v2-343983d43c4af8d8fc1212e51e5ed942_720w.png)
 
-### 回应处理
+### 4.2、回应处理
 
 即和解环节，同意和解/拒绝和解。可以直接在后台提交回应处理，选择沟通结果，输入沟通说明，也可上传证据截图，即可提交回应处理。
 
@@ -80,7 +86,7 @@ https://mp.weixin.qq.com/s/4j-tgTSVKTziy8CjIW8Scw
 
 ![Image text](https://pica.zhimg.com/80/v2-d4a421de198eb6842d9218b44a7e3038_720w.png)
 
-### 补充凭证
+### 4.3、补充凭证
 
 即平台处理环节，下发举证和判定责任。可以直接在后台提交补充凭证，输入凭证详情，也可上传图片，即可提交补充凭证。
 
@@ -88,13 +94,13 @@ https://mp.weixin.qq.com/s/4j-tgTSVKTziy8CjIW8Scw
 
 ![Image text](https://pic4.zhimg.com/80/v2-3f2225c7c2426969aad1c5f43022dfd5_720w.png)
 
-### 提交退款
+### 4.4、提交退款
 
 如果是正常普通的收单产品，没有特殊情况下可以手动退款，输入退款金额，附上退款原因。这样就不用到商户号后台去操作退款了。
 
 ![Image text](https://pic2.zhimg.com/80/v2-4217794b1579605bed242c42b6237951_720w.png)
 
-### 退款凭证
+### 4.5、退款凭证
 
 即开发者执行环节，上传处理凭证。可以直接在后台提交退款处理凭证，选择是否收货，输入处理凭证，也可上传图片，即可提交退款处理凭证。
 
@@ -102,7 +108,7 @@ https://mp.weixin.qq.com/s/4j-tgTSVKTziy8CjIW8Scw
 
 ![Image text](https://pica.zhimg.com/80/v2-49eeb2dc9e5403599124d9f455242ebc_720w.png)
 
-### 提交申诉
+### 4.6、提交申诉
 
 即商家申诉环节。可以直接在后台提交申诉，输入申诉原因，也可上传证明材料，即可提交申诉。
 
